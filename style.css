@@ -1,5 +1,7 @@
 body {
   background-color: #E2F8FE;
+  background-image: url("img/backgroundpizza.gif");
+  background-repeat: repeat;
   font-family: 'open sans', sans-serif;
   font-weight: lighter;
   font-size: 0.8em;
